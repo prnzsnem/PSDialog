@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="select_time">Select Time</string>
+    <string name="ok">OK</string>]
+    <string name="warning">Warning</string>
+    <string name="success">Success</string>
+    <string name="error">Error</string>
+    <string name="network_error">No Internet</string>
+    <string name="offline">Offline</string>
+    <string name="online">Online</string>
+</resources>
